@@ -1,5 +1,7 @@
-- 💬 Ask me about **Data Analyst | Business Intelligence | BI | Analytics | SQL | Power BI | Scrum**
+<h1 align="center">Hi there 👋 </h1>
 
+
+- 💬 Ask me about **Data Analyst | Business Intelligence | BI | Analytics | SQL | Power BI | Scrum**
 - 📫 How to reach me **alxxfischer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
