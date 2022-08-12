@@ -1,5 +1,3 @@
-<h3 align="center">Data Analyst, interested in Data Visualization and Financial Analysis.</h3>
-
 - 💬 Ask me about **Data Analyst | Business Intelligence | BI | Analytics | SQL | Power BI | Scrum**
 
 - 📫 How to reach me **alxxfischer@gmail.com**
